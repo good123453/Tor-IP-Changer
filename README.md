@@ -146,7 +146,7 @@ sudo service tor start
 
 ## Author 👨‍💻
 
-Created by **good123453**
+Created by **Neo**
 
 ## Credits 🙏
 
